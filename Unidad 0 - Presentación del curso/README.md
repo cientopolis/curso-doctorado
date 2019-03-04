@@ -18,4 +18,14 @@ http://www.lifia.info.unlp.edu.ar/lifia/es/fichas/alejandro-fernandez/
   * Utilización de alguna herramienta de software y diagramación.
   * Diseño de un proyecto de Ciencia Ciudadana.
   * Etc. 
+  
+## Recursos
+
+* Este repositorio
+* Grupo en Mendeley para agrupar bibliografía. (https://www.mendeley.com/community/cientopolis-citizen-science/).
+* Pagina Web: www.Cientopolis.org
+* Wiki: wiki.cientopolis.org
+
+
+
 
