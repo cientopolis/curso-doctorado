@@ -26,6 +26,12 @@ http://www.lifia.info.unlp.edu.ar/lifia/es/fichas/alejandro-fernandez/
 * Pagina Web: www.Cientopolis.org
 * Wiki: http://wiki.cientopolis.org
 
+## Cronograma general
+* Lunes: Ciencia Abierta y Ciencia Ciudadana 
+* Martes:  Tipos de proyectos de Ciencia Ciudadana
+* Miércoles: Colaboración, Comunidades, Ludificación
+* Jueves: Experiencias en proyectos  / 
+* Viernes: Propuesta de trabajos finales / Dr. Mariano Fressoli - Cientópolis y CENIT.
 
 
 
