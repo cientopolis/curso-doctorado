@@ -24,7 +24,7 @@ http://www.lifia.info.unlp.edu.ar/lifia/es/fichas/alejandro-fernandez/
 * Este repositorio
 * Grupo en Mendeley para agrupar bibliografía. (https://www.mendeley.com/community/cientopolis-citizen-science/).
 * Pagina Web: www.Cientopolis.org
-* Wiki: wiki.cientopolis.org
+* Wiki: http://wiki.cientopolis.org
 
 
 
