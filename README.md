@@ -2,6 +2,6 @@
 Material para el curso que se dicta en los doctorados de ciencias informáticas de la UNLP y posiblemente en otras universidades.
 
 ## Recursos
-Wiki del proyecto Cientopolis -> http://www.cientopolis.org/wiki
+Wiki del proyecto Cientopolis -> http://wiki.cientopolis.org
 
 
