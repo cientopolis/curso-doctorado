@@ -2,6 +2,7 @@
 
 ## Links de interes
 * http://citizen-science.sei-international.org/index.php
+* Toolkit Cornell: http://www.birds.cornell.edu/citscitoolkit/toolkit/steps
 
 ## Actividades
 
